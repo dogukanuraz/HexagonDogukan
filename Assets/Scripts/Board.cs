@@ -8,8 +8,8 @@ public class Board : MonoBehaviour
     public int height;
     private Tiles[,] tiles;
     public GameObject tilePrefab;
-    public float xOffset = 0.752f;
-    public float yOffset = 0.864f;
+    public float xOffset = 0.7f;
+    public float yOffset = 0.8f;
     public GameObject[] hexagons;
     public GameObject[,] allHex;
     //GameObject triple;
